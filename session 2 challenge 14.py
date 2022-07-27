@@ -1,0 +1,12 @@
+tup = 1, 2, 3, 2, 4, 5, 6, 2, 7, 2, 8, 9
+duplicate1= tup.count(1)
+duplicate2= tup.count(2)
+duplicate3= tup.count(3)
+duplicate4= tup.count(4)
+duplicate5= tup.count(5)
+duplicate6= tup.count(6)
+duplicate7= tup.count(7)
+duplicate8= tup.count(8)
+duplicate9= tup.count(9)
+print( "These are the duplicates from numeral 1 to 9 ")
+print(duplicate1,duplicate2,duplicate3, duplicate4, duplicate5, duplicate6, duplicate7, duplicate8, duplicate9)
